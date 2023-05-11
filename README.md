@@ -1,5 +1,5 @@
 # libft
-holds many recoded standard C functions like strlen, putchar and so on
+implementing many standard C functions like strlen, putchar, memset, isalpha, isdigit, strlcpy and other.
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
